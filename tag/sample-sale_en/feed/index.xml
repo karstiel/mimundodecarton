@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Sample Sale &#8211; My cardboard world</title>
+	<atom:link href="/tag/sample-sale_en/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A place where you can get lost</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Last shoppings: Clothes and Complements</title>
+		<link>/last-shoppings-clothes-and-complements/</link>
+		<comments>/last-shoppings-clothes-and-complements/#comments</comments>
+		<pubDate>Tue, 16 Jun 2015 20:37:50 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Shoppings]]></category>
+		<category><![CDATA[Alice in Wonderland]]></category>
+		<category><![CDATA[coat]]></category>
+		<category><![CDATA[dress]]></category>
+		<category><![CDATA[Heavy Red]]></category>
+		<category><![CDATA[hoodie]]></category>
+		<category><![CDATA[Last Chance Sale]]></category>
+		<category><![CDATA[OOAK]]></category>
+		<category><![CDATA[Sample Sale]]></category>
+
+		<guid isPermaLink="false">/?p=1286</guid>
+		<description><![CDATA[<p>The last day 6th of this month began a new event in Heavy Red, as you can remember, I have told before that this is my favourite shop. This event...</p>
+<p>La entrada <a rel="nofollow" href="/last-shoppings-clothes-and-complements/">Last shoppings: Clothes and Complements</a> aparece primero en <a rel="nofollow" href="/en">My cardboard world</a>.</p>
+]]></description>
+		<wfw:commentRss>/last-shoppings-clothes-and-complements/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1286</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>ARTDECO &#8211; Mi mundo de cartón</title>
+	<atom:link href="/tag/artdeco/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Productos que utilizo: pintalabios rojos</title>
+		<link>/productos-que-utilizo-pintalabios-rojos/</link>
+		<comments>/productos-que-utilizo-pintalabios-rojos/#respond</comments>
+		<pubDate>Mon, 10 Feb 2014 18:39:44 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Cosmética y maquillaje]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Ambición]]></category>
+		<category><![CDATA[ARTDECO]]></category>
+		<category><![CDATA[color]]></category>
+		<category><![CDATA[Deborah]]></category>
+		<category><![CDATA[Double Touch]]></category>
+		<category><![CDATA[dúo]]></category>
+		<category><![CDATA[H&M]]></category>
+		<category><![CDATA[Kiko]]></category>
+		<category><![CDATA[Lush]]></category>
+		<category><![CDATA[MAC]]></category>
+		<category><![CDATA[Miss Cop]]></category>
+		<category><![CDATA[pintalabios]]></category>
+		<category><![CDATA[Pro Longwear]]></category>
+		<category><![CDATA[Real Red]]></category>
+		<category><![CDATA[rojo]]></category>
+		<category><![CDATA[Sephora]]></category>
+		<category><![CDATA[Velvet Mat]]></category>
+
+		<guid isPermaLink="false">/?p=302</guid>
+		<description><![CDATA[<p>Desde siempre me ha gustado llevar los labios pintados, pero creo que el color negro no suele quedar muy bien, pues redondea la cara, aunque también la hace más pálida....</p>
+<p>La entrada <a rel="nofollow" href="/productos-que-utilizo-pintalabios-rojos/">Productos que utilizo: pintalabios rojos</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/productos-que-utilizo-pintalabios-rojos/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">302</post-id>	</item>
+	</channel>
+</rss>

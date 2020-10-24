@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Edgar Allan Poe &#8211; Mi mundo de cartón</title>
+	<atom:link href="/tag/edgar-allan-poe/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Ilustradores: Benjamin Lacombe</title>
+		<link>/ilustradores-benjamin-lacombe/</link>
+		<comments>/ilustradores-benjamin-lacombe/#respond</comments>
+		<pubDate>Sun, 07 Dec 2014 21:32:09 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Arte]]></category>
+		<category><![CDATA[Ilustración]]></category>
+		<category><![CDATA[Personajes]]></category>
+		<category><![CDATA[Benjamin Lacombe]]></category>
+		<category><![CDATA[Blancanieves]]></category>
+		<category><![CDATA[Edgar Allan Poe]]></category>
+		<category><![CDATA[El herbario de las Hadas]]></category>
+		<category><![CDATA[ilustrador]]></category>
+		<category><![CDATA[La niña Silencio]]></category>
+		<category><![CDATA[Los Amantes Mariposa]]></category>
+		<category><![CDATA[Los Cuentos Macabros]]></category>
+		<category><![CDATA[Notre-Dame de París]]></category>
+		<category><![CDATA[Ondina]]></category>
+		<category><![CDATA[Víctor Hugo]]></category>
+
+		<guid isPermaLink="false">/?p=991</guid>
+		<description><![CDATA[<p>Benjamín Lacombe es un ilustrador nacido el 12 de julio de 1982 en París donde actualmente vive y trabaja. Sus ilustraciones me parecen muy dulces, pero a la vez elegantes....</p>
+<p>La entrada <a rel="nofollow" href="/ilustradores-benjamin-lacombe/">Ilustradores: Benjamin Lacombe</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/ilustradores-benjamin-lacombe/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">991</post-id>	</item>
+	</channel>
+</rss>

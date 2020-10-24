@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>gotico &#8211; Mi mundo de cartón</title>
+	<atom:link href="/tag/gotico/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Tiendas de Etsy: Zen And Coffee</title>
+		<link>/tiendas-de-etsy-zen-and-coffee/</link>
+		<comments>/tiendas-de-etsy-zen-and-coffee/#respond</comments>
+		<pubDate>Mon, 20 Oct 2014 10:01:47 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Compras]]></category>
+		<category><![CDATA[Moda]]></category>
+		<category><![CDATA[Etsy]]></category>
+		<category><![CDATA[gotico]]></category>
+		<category><![CDATA[guantes]]></category>
+		<category><![CDATA[manguitos]]></category>
+		<category><![CDATA[mitones]]></category>
+		<category><![CDATA[ZenAndCoffee]]></category>
+
+		<guid isPermaLink="false">/?p=968</guid>
+		<description><![CDATA[<p>Se trata de mi tienda favorita de guantes, mitones y manguitos. Tienen muchísimos modelos, de diferentes telas y colores, pero todos preciosos. Los hay desde menos de 20€ hasta casi...</p>
+<p>La entrada <a rel="nofollow" href="/tiendas-de-etsy-zen-and-coffee/">Tiendas de Etsy: Zen And Coffee</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/tiendas-de-etsy-zen-and-coffee/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">968</post-id>	</item>
+		<item>
+		<title>Vestidos de diario para el verano</title>
+		<link>/vestidos-de-diario-para-el-verano/</link>
+		<comments>/vestidos-de-diario-para-el-verano/#comments</comments>
+		<pubDate>Mon, 05 Aug 2013 19:02:27 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Moda]]></category>
+		<category><![CDATA[calavera]]></category>
+		<category><![CDATA[gotico]]></category>
+		<category><![CDATA[hell bunny]]></category>
+		<category><![CDATA[innocent]]></category>
+		<category><![CDATA[iron fist]]></category>
+		<category><![CDATA[negro]]></category>
+		<category><![CDATA[poizen industries]]></category>
+		<category><![CDATA[tartan]]></category>
+		<category><![CDATA[vestido]]></category>
+		<category><![CDATA[vive maria]]></category>
+
+		<guid isPermaLink="false">/?p=11</guid>
+		<description><![CDATA[<p>Según mi opinión es una prenda que todo el mundo debiera tener en su armario. Los hay con estampados y formas diversas, pero me suele gustar, para llevar de diario,...</p>
+<p>La entrada <a rel="nofollow" href="/vestidos-de-diario-para-el-verano/">Vestidos de diario para el verano</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/vestidos-de-diario-para-el-verano/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">11</post-id>	</item>
+	</channel>
+</rss>

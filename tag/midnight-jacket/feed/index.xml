@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Midnight Jacket &#8211; My cardboard world</title>
+	<atom:link href="/tag/midnight-jacket/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A place where you can get lost</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Last shoppings: clothes and shoes (2014 Spring)</title>
+		<link>/last-shoppings-clothes-and-shoes-2014-spring/</link>
+		<comments>/last-shoppings-clothes-and-shoes-2014-spring/#respond</comments>
+		<pubDate>Thu, 05 Jun 2014 19:31:55 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Shoppings]]></category>
+		<category><![CDATA[Ale-Hop]]></category>
+		<category><![CDATA[Black Mirror Design]]></category>
+		<category><![CDATA[bloomers]]></category>
+		<category><![CDATA[Desigual]]></category>
+		<category><![CDATA[Kiabi]]></category>
+		<category><![CDATA[kinkyangel]]></category>
+		<category><![CDATA[leather]]></category>
+		<category><![CDATA[Midnight Jacket]]></category>
+		<category><![CDATA[military]]></category>
+		<category><![CDATA[Mistery of Gumland]]></category>
+		<category><![CDATA[Muriel Dal Bo]]></category>
+		<category><![CDATA[New Yorker]]></category>
+		<category><![CDATA[poizen industries]]></category>
+		<category><![CDATA[Sublime]]></category>
+		<category><![CDATA[victorian boots]]></category>
+
+		<guid isPermaLink="false">/?p=885</guid>
+		<description><![CDATA[<p>During these last months, I have bought a lot of things, in Internet and in my city. I will begin with an anorak which I have searched for long time....</p>
+<p>La entrada <a rel="nofollow" href="/last-shoppings-clothes-and-shoes-2014-spring/">Last shoppings: clothes and shoes (2014 Spring)</a> aparece primero en <a rel="nofollow" href="/en">My cardboard world</a>.</p>
+]]></description>
+		<wfw:commentRss>/last-shoppings-clothes-and-shoes-2014-spring/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">885</post-id>	</item>
+	</channel>
+</rss>

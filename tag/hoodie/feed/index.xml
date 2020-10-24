@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>hoodie &#8211; Mi mundo de cartón</title>
+	<atom:link href="/tag/hoodie/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Últimas compras: Ropa y complementos</title>
+		<link>/ultimas-compras-ropa-y-complementos/</link>
+		<comments>/ultimas-compras-ropa-y-complementos/#comments</comments>
+		<pubDate>Tue, 16 Jun 2015 20:37:31 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Compras]]></category>
+		<category><![CDATA[Moda]]></category>
+		<category><![CDATA[abrigo]]></category>
+		<category><![CDATA[Alicia en el País de las Maravillas]]></category>
+		<category><![CDATA[Heavy Red]]></category>
+		<category><![CDATA[hoodie]]></category>
+		<category><![CDATA[Last Chance Sale]]></category>
+		<category><![CDATA[OOAK]]></category>
+		<category><![CDATA[Sample Sale]]></category>
+		<category><![CDATA[vestido]]></category>
+
+		<guid isPermaLink="false">/?p=1261</guid>
+		<description><![CDATA[<p>El pasado día 6 de este mismo mes comenzó un evento en Heavy Red, la cual ya he comentado anteriormente que es mi tienda fetiche. Dicho evento es el «5th...</p>
+<p>La entrada <a rel="nofollow" href="/ultimas-compras-ropa-y-complementos/">Últimas compras: Ropa y complementos</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/ultimas-compras-ropa-y-complementos/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1261</post-id>	</item>
+	</channel>
+</rss>

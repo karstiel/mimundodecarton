@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>plush-toy &#8211; My cardboard world</title>
+	<atom:link href="/tag/plush-toy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A place where you can get lost</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Interesting websites: Etsy shops &#8211; 2015 June</title>
+		<link>/interesting-websites-etsy-shops-2015-june/</link>
+		<comments>/interesting-websites-etsy-shops-2015-june/#respond</comments>
+		<pubDate>Fri, 26 Jun 2015 21:44:48 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Interesting websites]]></category>
+		<category><![CDATA[accessories]]></category>
+		<category><![CDATA[Etsy]]></category>
+		<category><![CDATA[felt]]></category>
+		<category><![CDATA[figurine]]></category>
+		<category><![CDATA[links]]></category>
+		<category><![CDATA[plush-toy]]></category>
+		<category><![CDATA[toy]]></category>
+
+		<guid isPermaLink="false">/?p=1354</guid>
+		<description><![CDATA[<p>Today I show you some links to Etsy shops which I have recollected and I thought that they were interesting for some reasons. To begin, I want to talk you...</p>
+<p>La entrada <a rel="nofollow" href="/interesting-websites-etsy-shops-2015-june/">Interesting websites: Etsy shops &#8211; 2015 June</a> aparece primero en <a rel="nofollow" href="/en">My cardboard world</a>.</p>
+]]></description>
+		<wfw:commentRss>/interesting-websites-etsy-shops-2015-june/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1354</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>ANWLeather &#8211; Mi mundo de cartón</title>
+	<atom:link href="/tag/anwleather/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Páginas interesantes: Tiendas Etsy – Octubre 2015</title>
+		<link>/paginas-interesantes-tiendas-etsy-octubre-2015/</link>
+		<comments>/paginas-interesantes-tiendas-etsy-octubre-2015/#respond</comments>
+		<pubDate>Tue, 20 Oct 2015 19:06:40 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Páginas interesantes]]></category>
+		<category><![CDATA[accesorios]]></category>
+		<category><![CDATA[ANWLeather]]></category>
+		<category><![CDATA[botas]]></category>
+		<category><![CDATA[cuero]]></category>
+		<category><![CDATA[enlaces]]></category>
+		<category><![CDATA[Etsy]]></category>
+		<category><![CDATA[HORSEKING]]></category>
+		<category><![CDATA[HysteriaMachine]]></category>
+		<category><![CDATA[lámpara]]></category>
+		<category><![CDATA[MLadysParasols]]></category>
+		<category><![CDATA[Omulamp]]></category>
+
+		<guid isPermaLink="false">/?p=1377</guid>
+		<description><![CDATA[<p>Hoy os presento varias tiendas que he ido descubriendo en la página de Etsy. Son un variado de tiendas con diferentes artículos, de modo que seguramente encontréis algo que os...</p>
+<p>La entrada <a rel="nofollow" href="/paginas-interesantes-tiendas-etsy-octubre-2015/">Páginas interesantes: Tiendas Etsy – Octubre 2015</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/paginas-interesantes-tiendas-etsy-octubre-2015/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1377</post-id>	</item>
+	</channel>
+</rss>

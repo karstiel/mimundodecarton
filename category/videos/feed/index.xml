@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Vídeos &#8211; Mi mundo de cartón</title>
+	<atom:link href="/category/videos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Trailer de Macbeth</title>
+		<link>/trailer-de-macbeth/</link>
+		<comments>/trailer-de-macbeth/#respond</comments>
+		<pubDate>Fri, 26 Jun 2015 11:16:18 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Películas]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[Macbeth]]></category>
+		<category><![CDATA[película]]></category>
+		<category><![CDATA[trailer]]></category>
+
+		<guid isPermaLink="false">/?p=1347</guid>
+		<description><![CDATA[<p>Hoy os traigo este mini-post sólo para enseñaros el trailer de la película británica Macbeth que en principio se estrenará el próximo mes de octubre en UK (en España aún...</p>
+<p>La entrada <a rel="nofollow" href="/trailer-de-macbeth/">Trailer de Macbeth</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/trailer-de-macbeth/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1347</post-id>	</item>
+		<item>
+		<title>Mi canal de Youtube: Vídeo de Nymeria volando</title>
+		<link>/mi-canal-de-youtube-video-de-nymeria-volando/</link>
+		<comments>/mi-canal-de-youtube-video-de-nymeria-volando/#respond</comments>
+		<pubDate>Tue, 17 Feb 2015 11:57:32 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Amigos]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[autillo]]></category>
+		<category><![CDATA[ave]]></category>
+		<category><![CDATA[búho]]></category>
+		<category><![CDATA[canal]]></category>
+		<category><![CDATA[cariblanco]]></category>
+		<category><![CDATA[Nymeria]]></category>
+		<category><![CDATA[vídeo]]></category>
+		<category><![CDATA[vuelo]]></category>
+		<category><![CDATA[Youtube]]></category>
+
+		<guid isPermaLink="false">/?p=1149</guid>
+		<description><![CDATA[<p>Os presento a Nymeria, mi hembra de autillo cariblanco. ¿Queréis verla volando por mi casa? Aquí os dejo el primer vídeo que subo a mi canal de Youtube, espero que...</p>
+<p>La entrada <a rel="nofollow" href="/mi-canal-de-youtube-video-de-nymeria-volando/">Mi canal de Youtube: Vídeo de Nymeria volando</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/mi-canal-de-youtube-video-de-nymeria-volando/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1149</post-id>	</item>
+	</channel>
+</rss>

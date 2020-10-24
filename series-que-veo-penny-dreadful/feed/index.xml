@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comentarios en: Series que veo: Penny Dreadful</title>
+	<atom:link href="/series-que-veo-penny-dreadful/feed/" rel="self" type="application/rss+xml" />
+	<link>/series-que-veo-penny-dreadful/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Sun, 11 Jun 2017 10:29:56 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+	<item>
+		<title>Por: Regina Vermilion</title>
+		<link>/series-que-veo-penny-dreadful/#comment-734</link>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2014 20:31:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=799#comment-734</guid>
+		<description><![CDATA[Lo cierto es que es una serie muy atrayente y los personajes son muy carismáticos. Y por supuesto, yo también creo que Sir Malcolm esconde muchas cosas (pero no es el único).]]></description>
+		<content:encoded><![CDATA[<p>Lo cierto es que es una serie muy atrayente y los personajes son muy carismáticos. Y por supuesto, yo también creo que Sir Malcolm esconde muchas cosas (pero no es el único).</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Grisel</title>
+		<link>/series-que-veo-penny-dreadful/#comment-55</link>
+		<dc:creator><![CDATA[Grisel]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2014 18:05:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=799#comment-55</guid>
+		<description><![CDATA[Muy buena la serie, no podemos negar que es un historia innovadora!! &lt;a href=&quot;http://www.hbomax.tv/penny-dreadful/&quot; rel=&quot;nofollow&quot;&gt;Sir Malcolm Murray&lt;/a&gt; es uno de mis personajes favoritos! Lleno de carácter duro por lo mismo de su hija!! Pero a la vez siento que esconde algo!!]]></description>
+		<content:encoded><![CDATA[<p>Muy buena la serie, no podemos negar que es un historia innovadora!! <a href="http://www.hbomax.tv/penny-dreadful/" rel="nofollow">Sir Malcolm Murray</a> es uno de mis personajes favoritos! Lleno de carácter duro por lo mismo de su hija!! Pero a la vez siento que esconde algo!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

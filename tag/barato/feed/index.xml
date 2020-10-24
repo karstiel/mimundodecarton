@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>barato &#8211; Mi mundo de cartón</title>
+	<atom:link href="/tag/barato/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Ideas para looks: Look por 60€ &#8211; Junio 2017</title>
+		<link>/ideas-looks-look-60e-junio-2017/</link>
+		<comments>/ideas-looks-look-60e-junio-2017/#respond</comments>
+		<pubDate>Sat, 17 Jun 2017 15:11:09 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Cosmética y maquillaje]]></category>
+		<category><![CDATA[Looks]]></category>
+		<category><![CDATA[Moda]]></category>
+		<category><![CDATA[Páginas interesantes]]></category>
+		<category><![CDATA[barato]]></category>
+		<category><![CDATA[kimono]]></category>
+		<category><![CDATA[look]]></category>
+		<category><![CDATA[top]]></category>
+		<category><![CDATA[verano]]></category>
+
+		<guid isPermaLink="false">/?p=1607</guid>
+		<description><![CDATA[<p>Ya casi ha empezado el verano y hace mucho calor donde yo vivo, así que he decidido enseñaros un look completo bastante fresquito a un precio más que razonable… ¡menos...</p>
+<p>La entrada <a rel="nofollow" href="/ideas-looks-look-60e-junio-2017/">Ideas para looks: Look por 60€ &#8211; Junio 2017</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/ideas-looks-look-60e-junio-2017/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1607</post-id>	</item>
+	</channel>
+</rss>

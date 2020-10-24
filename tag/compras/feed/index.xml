@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>compras &#8211; Mi mundo de cartón</title>
+	<atom:link href="/tag/compras/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Compras de Aliexpress marzo 2016: Falda de tirantes</title>
+		<link>/compras-de-aliexpress-marzo-2016-falda-de-tirantes/</link>
+		<comments>/compras-de-aliexpress-marzo-2016-falda-de-tirantes/#respond</comments>
+		<pubDate>Sat, 26 Mar 2016 17:35:10 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Compras]]></category>
+		<category><![CDATA[Looks]]></category>
+		<category><![CDATA[Moda]]></category>
+		<category><![CDATA[Aliexpress]]></category>
+		<category><![CDATA[compras]]></category>
+		<category><![CDATA[falda]]></category>
+		<category><![CDATA[moda]]></category>
+
+		<guid isPermaLink="false">/?p=1442</guid>
+		<description><![CDATA[<p>Últimamente he estado ocupada con la organización de ciertos proyectos profesionales y no he tenido nada de tiempo para escribir. Sin embargo, tengo muchas cosas que enseñaros, puesto que en...</p>
+<p>La entrada <a rel="nofollow" href="/compras-de-aliexpress-marzo-2016-falda-de-tirantes/">Compras de Aliexpress marzo 2016: Falda de tirantes</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/compras-de-aliexpress-marzo-2016-falda-de-tirantes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1442</post-id>	</item>
+	</channel>
+</rss>

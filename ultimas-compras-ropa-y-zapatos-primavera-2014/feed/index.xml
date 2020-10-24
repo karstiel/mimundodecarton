@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comentarios en: Últimas compras: ropa y zapatos (primavera 2014)</title>
+	<atom:link href="/ultimas-compras-ropa-y-zapatos-primavera-2014/feed/" rel="self" type="application/rss+xml" />
+	<link>/ultimas-compras-ropa-y-zapatos-primavera-2014/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Sun, 11 Jun 2017 10:29:56 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+	<item>
+		<title>Por: Mi último outfit y maquillaje &#124; Mi mundo de cartón</title>
+		<link>/ultimas-compras-ropa-y-zapatos-primavera-2014/#comment-735</link>
+		<dc:creator><![CDATA[Mi último outfit y maquillaje &#124; Mi mundo de cartón]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2014 22:13:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=856#comment-735</guid>
+		<description><![CDATA[[&#8230;] chaqueta de estilo militar la compré la primavera pasada y no le había dado mucho uso, pero últimamente la estoy utilizando [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] chaqueta de estilo militar la compré la primavera pasada y no le había dado mucho uso, pero últimamente la estoy utilizando [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

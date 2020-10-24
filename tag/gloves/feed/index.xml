@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>gloves &#8211; My cardboard world</title>
+	<atom:link href="/tag/gloves/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A place where you can get lost</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Etsy shops: Zen And Coffee</title>
+		<link>/etsy-shops-zen-and-coffee/</link>
+		<comments>/etsy-shops-zen-and-coffee/#respond</comments>
+		<pubDate>Mon, 20 Oct 2014 10:01:58 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Shoppings]]></category>
+		<category><![CDATA[arm-warmer]]></category>
+		<category><![CDATA[Etsy]]></category>
+		<category><![CDATA[gloves]]></category>
+		<category><![CDATA[gothic]]></category>
+		<category><![CDATA[mittens]]></category>
+		<category><![CDATA[muffs]]></category>
+		<category><![CDATA[ZenAndCoffee]]></category>
+
+		<guid isPermaLink="false">/?p=1000</guid>
+		<description><![CDATA[<p>It is my favourite shop of gloves, mittens and cuffs. It has a lot of models, with different fabric of several colors, but all of them are beautiful. They are...</p>
+<p>La entrada <a rel="nofollow" href="/etsy-shops-zen-and-coffee/">Etsy shops: Zen And Coffee</a> aparece primero en <a rel="nofollow" href="/en">My cardboard world</a>.</p>
+]]></description>
+		<wfw:commentRss>/etsy-shops-zen-and-coffee/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1000</post-id>	</item>
+	</channel>
+</rss>

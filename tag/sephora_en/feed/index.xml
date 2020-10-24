@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Sephora &#8211; My cardboard world</title>
+	<atom:link href="/tag/sephora_en/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A place where you can get lost</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Looks: ocasionally grey and black eyes make up</title>
+		<link>/looks-ocasionally-grey-and-black-eyes-make-up/</link>
+		<comments>/looks-ocasionally-grey-and-black-eyes-make-up/#respond</comments>
+		<pubDate>Fri, 21 Feb 2014 18:20:33 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Cosmetic and Make Up]]></category>
+		<category><![CDATA[Looks]]></category>
+		<category><![CDATA[24 ORE]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[Bourjois]]></category>
+		<category><![CDATA[Cargo]]></category>
+		<category><![CDATA[Circle lenses]]></category>
+		<category><![CDATA[Deborah]]></category>
+		<category><![CDATA[Effet Lumiere]]></category>
+		<category><![CDATA[Extra Eyepencil]]></category>
+		<category><![CDATA[false eyelashes]]></category>
+		<category><![CDATA[feathers]]></category>
+		<category><![CDATA[gray]]></category>
+		<category><![CDATA[Great Lash]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[iridescent]]></category>
+		<category><![CDATA[Kiko]]></category>
+		<category><![CDATA[Kryolan]]></category>
+		<category><![CDATA[matte]]></category>
+		<category><![CDATA[Maybelline]]></category>
+		<category><![CDATA[Sephora]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">/?p=439</guid>
+		<description><![CDATA[<p>Today I will show you a look which I use sometimes but not all days. I don&#8217;t use it all days because I need about 15/20 minutes for dayly make...</p>
+<p>La entrada <a rel="nofollow" href="/looks-ocasionally-grey-and-black-eyes-make-up/">Looks: ocasionally grey and black eyes make up</a> aparece primero en <a rel="nofollow" href="/en">My cardboard world</a>.</p>
+]]></description>
+		<wfw:commentRss>/looks-ocasionally-grey-and-black-eyes-make-up/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">439</post-id>	</item>
+		<item>
+		<title>Products which I use: red lipsticks</title>
+		<link>/products-which-i-use-red-lipsticks/</link>
+		<comments>/products-which-i-use-red-lipsticks/#respond</comments>
+		<pubDate>Mon, 10 Feb 2014 18:39:58 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Cosmetic and Make Up]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Ambition]]></category>
+		<category><![CDATA[ARTDECO]]></category>
+		<category><![CDATA[color]]></category>
+		<category><![CDATA[Deborah]]></category>
+		<category><![CDATA[Double Touch]]></category>
+		<category><![CDATA[dual]]></category>
+		<category><![CDATA[H&M]]></category>
+		<category><![CDATA[Kiko]]></category>
+		<category><![CDATA[lipstick]]></category>
+		<category><![CDATA[Lush]]></category>
+		<category><![CDATA[MAC]]></category>
+		<category><![CDATA[Miss Cop]]></category>
+		<category><![CDATA[Pro Longwear]]></category>
+		<category><![CDATA[Real Red]]></category>
+		<category><![CDATA[red]]></category>
+		<category><![CDATA[Sephora]]></category>
+		<category><![CDATA[Velvet Mat]]></category>
+
+		<guid isPermaLink="false">/?p=399</guid>
+		<description><![CDATA[<p>Always I like to have painted my lips, but I think that usually the black colour doesn&#8217;t look so good, because it rounds the face, but even it transform it...</p>
+<p>La entrada <a rel="nofollow" href="/products-which-i-use-red-lipsticks/">Products which I use: red lipsticks</a> aparece primero en <a rel="nofollow" href="/en">My cardboard world</a>.</p>
+]]></description>
+		<wfw:commentRss>/products-which-i-use-red-lipsticks/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">399</post-id>	</item>
+	</channel>
+</rss>

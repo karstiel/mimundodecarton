@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>skirt &#8211; My cardboard world</title>
+	<atom:link href="/tag/skirt/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A place where you can get lost</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Aliexpress shoppings March 2016: Suspenders skirt</title>
+		<link>/aliexpress-shoppings-march-2016-suspenders-skirt/</link>
+		<comments>/aliexpress-shoppings-march-2016-suspenders-skirt/#respond</comments>
+		<pubDate>Sat, 26 Mar 2016 17:35:10 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Looks]]></category>
+		<category><![CDATA[Shoppings]]></category>
+		<category><![CDATA[Aliexpress]]></category>
+		<category><![CDATA[fashion]]></category>
+		<category><![CDATA[shoppings]]></category>
+		<category><![CDATA[skirt]]></category>
+
+		<guid isPermaLink="false">/?p=1451</guid>
+		<description><![CDATA[<p>Lately I&#8217;ve been busy with the organization of some professional projects and I didn&#8217;t have enough time to write. But I have a lot of things to show you, because...</p>
+<p>La entrada <a rel="nofollow" href="/aliexpress-shoppings-march-2016-suspenders-skirt/">Aliexpress shoppings March 2016: Suspenders skirt</a> aparece primero en <a rel="nofollow" href="/en">My cardboard world</a>.</p>
+]]></description>
+		<wfw:commentRss>/aliexpress-shoppings-march-2016-suspenders-skirt/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1451</post-id>	</item>
+	</channel>
+</rss>

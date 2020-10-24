@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>steampunk &#8211; Mi mundo de cartón</title>
+	<atom:link href="/tag/steampunk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Tienda en Etsy</title>
+		<link>/tienda-en-etsy/</link>
+		<comments>/tienda-en-etsy/#respond</comments>
+		<pubDate>Sun, 23 Mar 2014 13:28:32 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Moda]]></category>
+		<category><![CDATA[Tienda]]></category>
+		<category><![CDATA[abalorio]]></category>
+		<category><![CDATA[antelina]]></category>
+		<category><![CDATA[blanco]]></category>
+		<category><![CDATA[brocado]]></category>
+		<category><![CDATA[bronce]]></category>
+		<category><![CDATA[cadena]]></category>
+		<category><![CDATA[camafeo]]></category>
+		<category><![CDATA[colgante]]></category>
+		<category><![CDATA[collar]]></category>
+		<category><![CDATA[corazón]]></category>
+		<category><![CDATA[corset]]></category>
+		<category><![CDATA[cristal]]></category>
+		<category><![CDATA[encaje]]></category>
+		<category><![CDATA[esfera]]></category>
+		<category><![CDATA[Etsy]]></category>
+		<category><![CDATA[fieltro]]></category>
+		<category><![CDATA[flor]]></category>
+		<category><![CDATA[gargantilla]]></category>
+		<category><![CDATA[lazo]]></category>
+		<category><![CDATA[marrón]]></category>
+		<category><![CDATA[negro]]></category>
+		<category><![CDATA[organza]]></category>
+		<category><![CDATA[plata]]></category>
+		<category><![CDATA[pompón]]></category>
+		<category><![CDATA[reloj]]></category>
+		<category><![CDATA[resina]]></category>
+		<category><![CDATA[steampunk]]></category>
+		<category><![CDATA[tienda]]></category>
+
+		<guid isPermaLink="false">/?p=478</guid>
+		<description><![CDATA[<p>Siento mucho no haber escrito en este último mes, pero la salud no me acompaña y no tenía fuerzas para ponerme delante del ordenador a escribir. Hoy vuelvo con un...</p>
+<p>La entrada <a rel="nofollow" href="/tienda-en-etsy/">Tienda en Etsy</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/tienda-en-etsy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">478</post-id>	</item>
+	</channel>
+</rss>

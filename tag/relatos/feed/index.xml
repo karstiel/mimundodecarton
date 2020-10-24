@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>relatos &#8211; Mi mundo de cartón</title>
+	<atom:link href="/tag/relatos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>¡Sigo viva!</title>
+		<link>/sigo-viva/</link>
+		<comments>/sigo-viva/#respond</comments>
+		<pubDate>Sun, 22 Mar 2015 19:28:20 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Compras]]></category>
+		<category><![CDATA[Ilustración]]></category>
+		<category><![CDATA[Literatura]]></category>
+		<category><![CDATA[Muñecas]]></category>
+		<category><![CDATA[Bella Durmiente]]></category>
+		<category><![CDATA[cuentos]]></category>
+		<category><![CDATA[El Gran Libro de los Cuentos de Miedo y Misterio]]></category>
+		<category><![CDATA[leyendas]]></category>
+		<category><![CDATA[muñecas]]></category>
+		<category><![CDATA[Princesas Zombies]]></category>
+		<category><![CDATA[Rapunzel]]></category>
+		<category><![CDATA[relatos]]></category>
+
+		<guid isPermaLink="false">/?p=1171</guid>
+		<description><![CDATA[<p>Sé que llevo bastante tiempo sin escribir, pero actualmente estoy estudiando y no dispongo de todo el tiempo que desearía para contaros lo que se me pasa por la cabeza....</p>
+<p>La entrada <a rel="nofollow" href="/sigo-viva/">¡Sigo viva!</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/sigo-viva/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1171</post-id>	</item>
+	</channel>
+</rss>

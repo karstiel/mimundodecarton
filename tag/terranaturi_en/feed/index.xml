@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Terra Naturi &#8211; My cardboard world</title>
+	<atom:link href="/tag/terranaturi_en/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A place where you can get lost</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Last shoppings: Cosmetics and Make up (2013 Autumn)</title>
+		<link>/last-shoppings-cosmetics-and-make-up-2013-autumn/</link>
+		<comments>/last-shoppings-cosmetics-and-make-up-2013-autumn/#respond</comments>
+		<pubDate>Sat, 25 Jan 2014 14:15:40 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Cosmetic and Make Up]]></category>
+		<category><![CDATA[Shoppings]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[blush]]></category>
+		<category><![CDATA[brown]]></category>
+		<category><![CDATA[bubblegum]]></category>
+		<category><![CDATA[Essence]]></category>
+		<category><![CDATA[exfoliant]]></category>
+		<category><![CDATA[eyeshadows]]></category>
+		<category><![CDATA[Kiko]]></category>
+		<category><![CDATA[lilac]]></category>
+		<category><![CDATA[lip tint]]></category>
+		<category><![CDATA[lips]]></category>
+		<category><![CDATA[Lush]]></category>
+		<category><![CDATA[Maderas]]></category>
+		<category><![CDATA[magnetic]]></category>
+		<category><![CDATA[Myrurgia]]></category>
+		<category><![CDATA[nail polish]]></category>
+		<category><![CDATA[Naturkosmetik]]></category>
+		<category><![CDATA[polish]]></category>
+		<category><![CDATA[powder]]></category>
+		<category><![CDATA[purple]]></category>
+		<category><![CDATA[red]]></category>
+		<category><![CDATA[roses]]></category>
+		<category><![CDATA[Terra Naturi]]></category>
+
+		<guid isPermaLink="false">/?p=312</guid>
+		<description><![CDATA[<p>As I said in my last post about shoppings, I have some cosmetics and make up products. I bought some nail polish in Kiko shop. Both of them are blue...</p>
+<p>La entrada <a rel="nofollow" href="/last-shoppings-cosmetics-and-make-up-2013-autumn/">Last shoppings: Cosmetics and Make up (2013 Autumn)</a> aparece primero en <a rel="nofollow" href="/en">My cardboard world</a>.</p>
+]]></description>
+		<wfw:commentRss>/last-shoppings-cosmetics-and-make-up-2013-autumn/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">312</post-id>	</item>
+	</channel>
+</rss>

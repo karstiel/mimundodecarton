@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>irisado &#8211; Mi mundo de cartón</title>
+	<atom:link href="/tag/irisado/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Looks: maquillaje de ojos ocasional gris y negro</title>
+		<link>/looks-maquillaje-de-ojos-ocasional-gris-y-negro/</link>
+		<comments>/looks-maquillaje-de-ojos-ocasional-gris-y-negro/#respond</comments>
+		<pubDate>Fri, 21 Feb 2014 18:19:49 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Cosmética y maquillaje]]></category>
+		<category><![CDATA[Looks]]></category>
+		<category><![CDATA[24 ORE]]></category>
+		<category><![CDATA[blanco]]></category>
+		<category><![CDATA[Bourjois]]></category>
+		<category><![CDATA[Cargo]]></category>
+		<category><![CDATA[Deborah]]></category>
+		<category><![CDATA[Effet Lumiere]]></category>
+		<category><![CDATA[Extra Eyepencil]]></category>
+		<category><![CDATA[Great Lash]]></category>
+		<category><![CDATA[gris]]></category>
+		<category><![CDATA[irisado]]></category>
+		<category><![CDATA[Kiko]]></category>
+		<category><![CDATA[Kryolan]]></category>
+		<category><![CDATA[lentillas Circle]]></category>
+		<category><![CDATA[mate]]></category>
+		<category><![CDATA[Maybelline]]></category>
+		<category><![CDATA[negro]]></category>
+		<category><![CDATA[pestañas postizas]]></category>
+		<category><![CDATA[plumas]]></category>
+		<category><![CDATA[Sephora]]></category>
+
+		<guid isPermaLink="false">/?p=337</guid>
+		<description><![CDATA[<p>Hoy os traigo un look que utilizo de vez en cuando, aunque no diariamente. No lo uso más a menudo porque mientras que el de diario me lleva unos 15/20...</p>
+<p>La entrada <a rel="nofollow" href="/looks-maquillaje-de-ojos-ocasional-gris-y-negro/">Looks: maquillaje de ojos ocasional gris y negro</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/looks-maquillaje-de-ojos-ocasional-gris-y-negro/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">337</post-id>	</item>
+	</channel>
+</rss>

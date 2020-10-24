@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>summer &#8211; My cardboard world</title>
+	<atom:link href="/tag/summer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A place where you can get lost</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Look ideas: Look for 60€ &#8211; 2017 June</title>
+		<link>/look-ideas-look-for-60e-2017-june/</link>
+		<comments>/look-ideas-look-for-60e-2017-june/#respond</comments>
+		<pubDate>Sat, 17 Jun 2017 15:11:09 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Cosmetic and Make Up]]></category>
+		<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Interesting websites]]></category>
+		<category><![CDATA[Looks]]></category>
+		<category><![CDATA[cheap]]></category>
+		<category><![CDATA[kimono]]></category>
+		<category><![CDATA[look]]></category>
+		<category><![CDATA[summer]]></category>
+		<category><![CDATA[top]]></category>
+
+		<guid isPermaLink="false">/?p=1629</guid>
+		<description><![CDATA[<p>Summer is almost here and it is heat place where I live, then I&#8217;ve decided to show you a full look quite cool whose price is more than reasonable&#8230; less...</p>
+<p>La entrada <a rel="nofollow" href="/look-ideas-look-for-60e-2017-june/">Look ideas: Look for 60€ &#8211; 2017 June</a> aparece primero en <a rel="nofollow" href="/en">My cardboard world</a>.</p>
+]]></description>
+		<wfw:commentRss>/look-ideas-look-for-60e-2017-june/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1629</post-id>	</item>
+		<item>
+		<title>Sunscreen</title>
+		<link>/sunscreen/</link>
+		<comments>/sunscreen/#respond</comments>
+		<pubDate>Fri, 23 Aug 2013 13:03:59 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Cosmetic and Make Up]]></category>
+		<category><![CDATA[color]]></category>
+		<category><![CDATA[make up]]></category>
+		<category><![CDATA[SPF]]></category>
+		<category><![CDATA[summer]]></category>
+		<category><![CDATA[sun]]></category>
+		<category><![CDATA[sunscreen]]></category>
+
+		<guid isPermaLink="false">/?p=197</guid>
+		<description><![CDATA[<p>At this time it is very important that we protect our skin of the sun effects. It is not matter our color skin or our tolerance of the sun. Personally...</p>
+<p>La entrada <a rel="nofollow" href="/sunscreen/">Sunscreen</a> aparece primero en <a rel="nofollow" href="/en">My cardboard world</a>.</p>
+]]></description>
+		<wfw:commentRss>/sunscreen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">197</post-id>	</item>
+	</channel>
+</rss>

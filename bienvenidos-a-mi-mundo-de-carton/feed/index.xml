@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comentarios en: Bienvenidos a mi mundo de cartón</title>
+	<atom:link href="/bienvenidos-a-mi-mundo-de-carton/feed/" rel="self" type="application/rss+xml" />
+	<link>/bienvenidos-a-mi-mundo-de-carton/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Sun, 11 Jun 2017 10:29:56 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+	<item>
+		<title>Por: design wordpress theme</title>
+		<link>/bienvenidos-a-mi-mundo-de-carton/#comment-5</link>
+		<dc:creator><![CDATA[design wordpress theme]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2014 08:29:05 +0000</pubDate>
+		<guid isPermaLink="false">/?p=100#comment-5</guid>
+		<description><![CDATA[Hola Saludos! He estado siguiente sitio web dee poco ahora y finalmmente consiguió la valentía coraje 
+para seguir adelante y darle un grito hacia fuera a partir de Houston Tx!
+Sólo quería decirte Mención mantewner lla fantástica trabajo!]]></description>
+		<content:encoded><![CDATA[<p>Hola Saludos! He estado siguiente sitio web dee poco ahora y finalmmente consiguió la valentía coraje<br />
+para seguir adelante y darle un grito hacia fuera a partir de Houston Tx!<br />
+Sólo quería decirte Mención mantewner lla fantástica trabajo!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

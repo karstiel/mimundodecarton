@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>pantalones &#8211; Mi mundo de cartón</title>
+	<atom:link href="/tag/pantalones/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Últimas compras: ropa y zapatos (otoño 2013)</title>
+		<link>/ultimas-compras-ropa-y-zapatos-otono-2013/</link>
+		<comments>/ultimas-compras-ropa-y-zapatos-otono-2013/#comments</comments>
+		<pubDate>Fri, 24 Jan 2014 19:49:50 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Compras]]></category>
+		<category><![CDATA[Moda]]></category>
+		<category><![CDATA[arabescos]]></category>
+		<category><![CDATA[blanco]]></category>
+		<category><![CDATA[Calzedonia]]></category>
+		<category><![CDATA[cruz]]></category>
+		<category><![CDATA[cuadros]]></category>
+		<category><![CDATA[damasco]]></category>
+		<category><![CDATA[Demonia]]></category>
+		<category><![CDATA[gris]]></category>
+		<category><![CDATA[jersey]]></category>
+		<category><![CDATA[negro]]></category>
+		<category><![CDATA[pantalones]]></category>
+		<category><![CDATA[pantis]]></category>
+		<category><![CDATA[runnickyrun]]></category>
+		<category><![CDATA[Stradivarius]]></category>
+		<category><![CDATA[tartan]]></category>
+		<category><![CDATA[Tezenis]]></category>
+		<category><![CDATA[zapatos]]></category>
+		<category><![CDATA[zombie]]></category>
+
+		<guid isPermaLink="false">/?p=281</guid>
+		<description><![CDATA[<p>¡Saludos, criaturas de la noche! Por motivos de salud y una mudanza, me he mantenido alejada de la página, pero creo que es hora de publicar cosas que se me...</p>
+<p>La entrada <a rel="nofollow" href="/ultimas-compras-ropa-y-zapatos-otono-2013/">Últimas compras: ropa y zapatos (otoño 2013)</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/ultimas-compras-ropa-y-zapatos-otono-2013/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">281</post-id>	</item>
+	</channel>
+</rss>

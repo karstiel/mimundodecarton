@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>creepy &#8211; Mi mundo de cartón</title>
+	<atom:link href="/tag/creepy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un lugar donde perderse</description>
+	<lastBuildDate>Wed, 28 Mar 2018 17:46:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">122552290</site>	<item>
+		<title>Review: Horror Block</title>
+		<link>/review-horror-block/</link>
+		<comments>/review-horror-block/#respond</comments>
+		<pubDate>Sun, 26 Apr 2015 11:16:26 +0000</pubDate>
+		<dc:creator><![CDATA[Regina Vermilion]]></dc:creator>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[creepy]]></category>
+		<category><![CDATA[hellraiser]]></category>
+		<category><![CDATA[horror block]]></category>
+		<category><![CDATA[pinhead]]></category>
+		<category><![CDATA[puzzle]]></category>
+		<category><![CDATA[walking dead]]></category>
+
+		<guid isPermaLink="false">/?p=1193</guid>
+		<description><![CDATA[<p>Hoy os quiero enseñar lo que viene en la Horror Block que recibí recientemente. No he podido escribir antes pues me voy a mudar en breve a Madrid y estoy...</p>
+<p>La entrada <a rel="nofollow" href="/review-horror-block/">Review: Horror Block</a> aparece primero en <a rel="nofollow" href="/es">Mi mundo de cartón</a>.</p>
+]]></description>
+		<wfw:commentRss>/review-horror-block/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1193</post-id>	</item>
+	</channel>
+</rss>
